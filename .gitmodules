@@ -52,3 +52,8 @@
 	path = OCA/web
 	url = git@github.com:OCA/web.git
 	branch = 14.0
+
+[submodule "ingegniamo/teleservizi_custom"]
+	path = ingegniamo/teleservizi_custom
+	url = git@github.com:ingegniamo/teleservizi_custom.git
+	branch = 14.0
