@@ -1,7 +1,7 @@
-[submodule "OCA/l10n-italy"]
-	path = OCA/l10n-italy
-	url = git@github.com:OCA/l10n-italy.git
-	branch = 14.0
+#[submodule "OCA/l10n-italy"]
+#	path = OCA/l10n-italy
+#	url = git@github.com:OCA/l10n-italy.git
+#	branch = 14.0
 
 [submodule "OCA/account-financial-reporting"]
 	path = OCA/account-financial-reporting
