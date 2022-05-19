@@ -57,3 +57,8 @@
 	path = ingegniamo/teleservizi_custom
 	url = git@github.com:ingegniamo/teleservizi_custom.git
 	branch = 14.0
+
+[submodule "stesi/l10n-italy"]
+	path = stesi/l10n-italy
+	url = git@github.com:stesi/l10n-italy.git
+	branch = 14.0
