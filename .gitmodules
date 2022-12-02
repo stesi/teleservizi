@@ -62,3 +62,8 @@
 	path = stesi/l10n-italy
 	url = git@github.com:stesi/l10n-italy.git
 	branch = 14.0
+
+[submodule "OCA/account-invoicing"]
+	path = OCA/account-invoicing
+	url = git@github.com:OCA/account-invoicing.git
+	branch = 14.0
