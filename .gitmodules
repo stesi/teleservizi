@@ -72,3 +72,8 @@
 	path = OCA/stock-logistics-workflow
 	url = git@github.com:OCA/stock-logistics-workflow.git
 	branch = 14.0
+
+[submodule "ingegniamo/account_followup_report_multiple_partners"]
+	path = ingegniamo/account_followup_report_multiple_partners
+	url = git@github.com:ingegniamo/account_followup_report_multiple_partners.git
+	branch = 14.0
