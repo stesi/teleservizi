@@ -77,3 +77,8 @@
 	path = ingegniamo/account_followup_report_multiple_partners
 	url = git@github.com:ingegniamo/account_followup_report_multiple_partners.git
 	branch = 14.0
+
+[submodule "OCA/account-closing"]
+	path = OCA/account-closing
+	url = git@github.com:OCA/account-closing.git
+	branch = 14.0
