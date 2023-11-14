@@ -82,3 +82,8 @@
 	path = OCA/account-closing
 	url = git@github.com:OCA/account-closing.git
 	branch = 14.0
+
+[submodule "ingegniamo/account_reports_aged_ref"]
+	path = ingegniamo/account_reports_aged_ref
+	url = git@github.com:ingegniamo/account_reports_aged_ref.git
+	branch = 14.0
