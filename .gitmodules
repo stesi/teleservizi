@@ -87,3 +87,8 @@
 	path = ingegniamo/account_reports_aged_ref
 	url = git@github.com:ingegniamo/account_reports_aged_ref.git
 	branch = 14.0
+
+[submodule "OCA/delivery-carrier"]
+	path = OCA/delivery-carrier
+	url = git@github.com:OCA/delivery-carrier.git
+	branch = 14.0
