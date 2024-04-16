@@ -92,3 +92,8 @@
 	path = OCA/delivery-carrier
 	url = git@github.com:OCA/delivery-carrier.git
 	branch = 14.0
+
+[submodule "stesi/l10n-italy-missing"]
+	path = stesi/l10n-italy-missing
+	url = git@github.com:stesi/l10n-italy-missing.git
+	branch = 14.0
