@@ -60,7 +60,7 @@
 
 [submodule "stesi/l10n-italy"]
 	path = stesi/l10n-italy
-	url = git@github.com:stesi/l10n-italy.git
+	url = git@github.com:OCA/l10n-italy.git
 	branch = 14.0
 
 [submodule "OCA/account-invoicing"]
@@ -91,4 +91,9 @@
 [submodule "OCA/delivery-carrier"]
 	path = OCA/delivery-carrier
 	url = git@github.com:OCA/delivery-carrier.git
+	branch = 14.0
+
+[submodule "stesi/l10n-italy-missing"]
+	path = stesi/l10n-italy-missing
+	url = git@github.com:stesi/l10n-italy-missing.git
 	branch = 14.0
