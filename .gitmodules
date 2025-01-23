@@ -97,3 +97,8 @@
 	path = stesi/l10n-italy-missing
 	url = git@github.com:stesi/l10n-italy-missing.git
 	branch = 14.0
+
+[submodule "ingegniamo/eq_backdated_inventory_adjustment"]
+	path = ingegniamo/eq_backdated_inventory_adjustment
+	url = git@github.com:ingegniamo/eq_backdated_inventory_adjustment.git
+	branch = 14.0
