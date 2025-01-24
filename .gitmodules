@@ -102,3 +102,8 @@
 	path = ingegniamo/eq_backdated_inventory_adjustment
 	url = git@github.com:ingegniamo/eq_backdated_inventory_adjustment.git
 	branch = 14.0
+
+[submodule "ingegniamo/effective_date_change"]
+	path = ingegniamo/effective_date_change
+	url = git@github.com:ingegniamo/effective_date_change.git
+	branch = 14.0
